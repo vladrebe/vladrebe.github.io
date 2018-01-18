@@ -1,5 +1,5 @@
 var numbers = [
-5, 6, 7, 8
+33, 34, 35, hi Ravil
 ]
 var last_index = 0
 
@@ -8,6 +8,5 @@ function getTrueRandomInteger(min,max){
 	setTimeout(function(){
 		document.getElementById("true-random-integer-generator-result").innerHTML=numbers[last_index];
 		last_index += 1;
-
 	}, 700); 
 }
