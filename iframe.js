@@ -1,5 +1,5 @@
 var numbers = [
-28, 44, 188, {privet Oleg}, 169, 211,
+5, 15, 29, 156, 56
 ]
 var last_index = 0
 
