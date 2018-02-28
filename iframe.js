@@ -1,5 +1,5 @@
 var numbers = [ 
-1976, 755, 1469 
+377, 900, 146 
 ] 
 var last_index = 0 
 
