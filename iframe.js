@@ -1,12 +1,12 @@
-var numbers = [
-32, 3, 97, 72
-]
-var last_index = 0
+var numbers = [ 
+1976, 755, 1469 
+] 
+var last_index = 0 
 
-function getTrueRandomInteger(min,max){
-	document.getElementById("true-random-integer-generator-result").innerHTML='<img src="/util/cp/images/ajax-loader.gif" alt="Loading..." />';
-	setTimeout(function(){
-		document.getElementById("true-random-integer-generator-result").innerHTML=numbers[last_index];
-		last_index += 1;
-	}, 700); 
+function getTrueRandomInteger(min,max){ 
+document.getElementById("true-random-integer-generator-result").innerHTML='<img src="/util/cp/images/ajax-loader.gif" alt="Loading..." />'; 
+setTimeout(function(){ 
+document.getElementById("true-random-integer-generator-result").innerHTML=numbers[last_index]; 
+last_index += 1; 
+}, 700); 
 }
