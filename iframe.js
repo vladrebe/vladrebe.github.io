@@ -1,7 +1,10 @@
 var numbers = [
 345,
 211,
-428
+428,
+675,
+343,
+803
 ]
 var last_index = 0
 
