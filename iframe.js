@@ -1,8 +1,9 @@
 var numbers = [
 288,
-,
-,
-,
+321,
+456,
+89,
+  
 ]
 
 var last_index = 0
