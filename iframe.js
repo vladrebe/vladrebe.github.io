@@ -1,11 +1,8 @@
-var numbers = [
-  
+var numbers = [  
 236,
 542,
 409,
 
-  
-  
 ]
 
 var last_index = 0
