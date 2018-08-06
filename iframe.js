@@ -3,8 +3,10 @@ var  numbers  =
   12,
   51,
   18,
-  19,
+  71,
   87,
+  3,
+  41,
 ]
 
 var last_index = 0
