@@ -5,8 +5,9 @@ var  numbers  =
   18,
   71,
   87,
-  3,
+  33,
   41,
+  17
 ]
 
 var last_index = 0
