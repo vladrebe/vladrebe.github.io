@@ -1,9 +1,7 @@
-var  numbers  = 
-    
+var  numbers  =     
 12,
 51,
-18,
-  
+18,  
 ]
 
 var last_index = 0
