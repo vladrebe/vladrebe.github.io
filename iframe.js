@@ -1,4 +1,5 @@
-var  numbers  = [
+var  numbers  = 
+    
 12,
 51,
 18,
