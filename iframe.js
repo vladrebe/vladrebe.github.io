@@ -1,12 +1,8 @@
-var  numbers  = [
- 
- 403,
- 457,
- 117,
- 67,
- 87,
- 91,
- 
+var numbers = [
+288,
+321,
+456,
+89,
 ]
 
 var last_index = 0
