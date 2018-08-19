@@ -1,5 +1,4 @@
-var  numbers  =   
- [
+var  numbers  = [
  403,
  457,
  117,
