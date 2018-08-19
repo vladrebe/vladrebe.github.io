@@ -4,7 +4,6 @@ var  numbers  = [
  117,
  67,
  87
- 
 ]
 
 var last_index = 0
