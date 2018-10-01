@@ -5,7 +5,10 @@ var numbers = [
 12,
 54,
 27,
-45,  
+45,
+89,
+24,
+71,
 ]
 
 var last_index = 0
