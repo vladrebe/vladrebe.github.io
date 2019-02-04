@@ -22,6 +22,9 @@ var numbers =
 294,
 197,
 369,
+76,       
+261,
+142,       
 ]
 
 var last_index = 0
