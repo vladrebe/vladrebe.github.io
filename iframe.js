@@ -1,10 +1,10 @@
 var numbers = 
     [
         
-10,
-13,
-147,
 97,
+147,
+13,
+10,
 ]
 
 var last_index = 0
