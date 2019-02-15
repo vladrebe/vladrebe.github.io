@@ -2,9 +2,10 @@ var numbers =
     [
         
 97,
-147,
+24,
 13,
 10,
+66,
 ]
 
 var last_index = 0
