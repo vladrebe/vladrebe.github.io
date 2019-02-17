@@ -3,9 +3,9 @@ var numbers =
         
 17,
 401,
-371,
-84,
-142,
+3,
+15,
+223,
 ]
 
 var last_index = 0
