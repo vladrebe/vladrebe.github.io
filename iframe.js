@@ -9,8 +9,8 @@ var numbers =
 566,
 19,
 97,
-188,
-664,
+189,
+665,
 ]
 
 var last_index = 0
