@@ -2,16 +2,15 @@ var numbers =
     [
   
       
-        500,
-        216,
-        553,
-        407,
-        16,
-        542
-        717,
-        105,
-        
-        
+500,
+216,
+553,
+407,
+16,
+542
+717,
+105,
+ 
        
 ]
 
@@ -27,6 +26,6 @@ document.getElementById("true-random-integer-generator-result").innerHTML=number
 
 last_index += 1;
 
-}, 900); 
+}, 700); 
 
 }
