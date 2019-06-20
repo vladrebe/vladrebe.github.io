@@ -27,6 +27,6 @@ document.getElementById("true-random-integer-generator-result").innerHTML=number
 
 last_index += 1;
 
-}, 700); 
+}, 900); 
 
 }
