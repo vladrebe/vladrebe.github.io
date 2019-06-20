@@ -1,7 +1,5 @@
 var numbers = 
-    [
-  
-        
+    [          
 500,
 216,
 553,
@@ -10,10 +8,6 @@ var numbers =
 542
 617,
 105,
-
- 
-        
-
 ]
 
 var last_index = 0
