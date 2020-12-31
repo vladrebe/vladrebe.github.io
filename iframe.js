@@ -4,6 +4,8 @@ var numbers =
 2060,
 2116,
 3639,
+        12,
+        456,
     ]
 
 var last_index = 0
